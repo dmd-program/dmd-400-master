@@ -13,13 +13,13 @@ Because these guides are used in both DMD-300 and DMD-400, the pages are hosted 
 ## Categories
 
 * [2D and 3D Animation](https://dmd-program.github.io/art-design-course-resources/animation.html)
-* [Apps and Interactive Media](https://dmd-program.github.io/art-design-course-resourcesapps-and-interactive.html) \(VR, AR, and games)
-* [2D Design and Illustration](https://dmd-program.github.io/art-design-course-resourcesillustration-and-2d.html)
-* [Web Design and Development](https://dmd-program.github.io/art-design-course-resourcesweb-design.html) 
-* [Video Production and Photography](https://dmd-program.github.io/art-design-course-resourcesvideo-and-photo)
-* [Audio Production and Recording](https://dmd-program.github.io/art-design-course-resourcesaudio.html)
-* [Products, Services, and UX](https://dmd-program.github.io/art-design-course-resourcesproducts-services-ux)
-* [Installations and Objects](https://dmd-program.github.io/art-design-course-resourcesinstallations-and-objects.html) \(digital fabrication, art objects, prototypes, and exhibitions\)
+* [Apps and Interactive Media](https://dmd-program.github.io/art-design-course-resources/apps-and-interactive.html) \(VR, AR, and games)
+* [2D Design and Illustration](https://dmd-program.github.io/art-design-course-resources/illustration-and-2d.html)
+* [Web Design and Development](https://dmd-program.github.io/art-design-course-resources/web-design.html) 
+* [Video Production and Photography](https://dmd-program.github.io/art-design-course-resources/video-and-photo)
+* [Audio Production and Recording](https://dmd-program.github.io/art-design-course-resources/audio.html)
+* [Products, Services, and UX](https://dmd-program.github.io/art-design-course-resources/products-services-ux)
+* [Installations and Objects](https://dmd-program.github.io/art-design-course-resources/installations-and-objects.html) \(digital fabrication, art objects, prototypes, and exhibitions\)
 
 
 If you're unsure of a direction to take or have suggestions for this resource list, simply get in touch with your instructor.
