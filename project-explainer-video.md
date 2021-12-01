@@ -48,8 +48,6 @@ Videos should be smaller than 500MB. To decrease your filesize, you can try the 
 
 ## Submission details
 
-* Upload an `.mp4` video file to the canvas assignment. 
-* The video should be:
-  * Smaller than 500MB
-  * 1-3 minutes long
-  * h.264 codec
+Upload your video to YouTube.
+
+You can set it to "unlisted" if you don't want it fully accessible within YouTube. \(The video will still be visible on the exhibition site.\)

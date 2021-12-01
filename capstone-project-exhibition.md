@@ -67,11 +67,9 @@ Gallery images are shown on your project's profile page. Try to include between 
 
 #### Video files
 
-Video files require a poster image that is displayed before the video files loads. Youtube and Vimeo typically create these automatically, however, you will need to include one with your video file. If you have more than one video file, please match the numbering of the poster to the video file.
+Upload any videos to YouTube.
 
-**Example poster image name:** `[last-name][first-name]-video-poster-01.jpg`
-
-**Example video file name:** `[last-name][first-name]-video-01.mp4`
+You can set it to "unlisted" if you don't want it fully accessible within YouTube. \(The video will still be visible on the exhibition site.\)
 
 #### Interactive elements
 
