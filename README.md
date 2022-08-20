@@ -8,11 +8,11 @@ Visit the [DMD Program Hub](http://dmd.psu.edu/) for more details.
 
 ## Contributors
 
-**Primary Course Author**
+**Primary course author**
 
 Michael Collins
 
-**Instructional Design**
+**Instructional design**
 
 Katrina Wehr
 
