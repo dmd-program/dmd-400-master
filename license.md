@@ -31,6 +31,6 @@ Add [OER Schema](http://oerschema.org) and CC License to HTML source:
 
 ### Visible attribution
 
-“[DMD 400: Digital Multimedia Design Capstone](https://www.gitbook.com/book/dmd-program/dmd-400-fa20/details)” by Michael Collins is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)."
+“[DMD 400: Digital Multimedia Design Capstone](https://www.gitbook.com/book/dmd-program/dmd-400-master/details)” by Michael Collins is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)."
 
-`<a href="https://github.com/dmd-program/dmd-400-fa20">DMD 400: Digital Multimedia Design Capstone</a>” by Michael Collins is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.`
+`<a href="https://github.com/dmd-program/dmd-400-master">DMD 400: Digital Multimedia Design Capstone</a>” by Michael Collins is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.`
