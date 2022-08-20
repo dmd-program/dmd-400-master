@@ -23,7 +23,7 @@ Add [OER Schema](http://oerschema.org) and CC License to HTML source:
 
         <!-- Link the license and attribution to the page -->
         <link about="#oer-source" property="cc:license" content="https://creativecommons.org/licenses/by/4.0/">
-        <meta about="#oer-source" property="cc:attributionUrl" content="https://www.gitbook.com/book/dmd-program/dmd-400-fa20">
+        <meta about="#oer-source" property="cc:attributionUrl" content="https://www.gitbook.com/book/dmd-program/dmd-400-master">
         <meta about="#oer-source" property="cc:attributionName" typeof="oer:Resource" content="Michael Collins">
 
 </div>
