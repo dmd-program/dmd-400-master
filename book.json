@@ -1,0 +1,37 @@
+{
+    "title": "DMD 400: Digital Multimedia Design Capstone",
+    "author": "Michael Collins",
+    "language": "en",
+    "plugins": [
+        "oerschema",
+        "youtube",
+        "codeblock-disable-glossary",
+        "github-edit",
+        "-sharing",
+        "toolbar"
+    ],
+    "pluginsConfig": {
+        "github-edit": {
+            "repo": "dmd-program/dmd-400-master",
+            "branch": "master"
+        },
+        "toolbar": {
+            "buttons":
+            [
+                {
+                    "label": "Download PDF",
+                    "icon": "fa fa-file-pdf-o",
+                    "url": "https://dmd-program.github.io/dmd-400-master/exports/dmd-400-master.pdf",
+                    "target": "_blank"
+                },
+                {
+                    "label": "Download ebook",
+                    "icon": "fa fa-book",
+                    "url": "https://dmd-program.github.io/dmd-400-master/exports/dmd-400-master.epub",
+                    "target": "_blank"
+                }
+                
+            ]
+        }
+    }
+}
