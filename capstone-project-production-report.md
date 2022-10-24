@@ -2,6 +2,8 @@
 
 A production report is a comprehensive update about what progress has been made. A report can consist of any visual or text description and may include screenshot images, photographs of prototypes, video of working functionality, code snippets, production artwork, concept maps, research findings, work inspiration, storyboards and scripts, etc.
 
+**Each blog post should be a minimum of 500 words long, and include images or other media.**
+
 Reports will be due regularly throughout the course to document your progress.
 
 ## Production blog
