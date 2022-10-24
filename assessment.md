@@ -10,7 +10,7 @@ To pass the course, students must meet the capstone requirements indicated in th
 
 By taking this course you are not guaranteed to pass it simply by turning in a final project and completing production reports and other projects. Your final project must incorporate feedback from your professor, external reviewers, and peers. You must document and show your efforts to explore feedback in your work and production reports. 
 
-At midterm and final your work will be reviewed by external reviewers. If you project is not meeting the DMD program requirements you will be given a warning at midterm. If this warning is not acted upon and you ignore your professor’s feedback leading up to your final you could fail the course and need to retake it. Your final project, once reviewed by external reviewers, will be deemed viable or not viable by the DMD program faculty. If your final project does not meet the requirements of the DMD program you will not pass the course.
+At the midterm and final review, your work will be reviewed by external reviewers. If you project is not meeting the DMD program requirements you will be given a warning at midterm. If this warning is not acted upon and you ignore your professor’s feedback leading up to your final you could fail the course and need to retake it. Your final project, once reviewed by external reviewers, will be deemed viable or not viable by the DMD program faculty. If your final project does not meet the requirements of the DMD program you will not pass the course.
 
 In order to pass this course you must earn a C or better. In order for your final project to be included in the exhibition your actual final project must earn a C or better.
 
