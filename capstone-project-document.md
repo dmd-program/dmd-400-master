@@ -40,6 +40,8 @@ Documentation must be provided as a PDF document.
 10. **Bibliography**
     * List research materials that support the project with associated citations throughout the document.
     * Choose either APA or MLA format. Be consistent throughout the document.
+    * See [this link](https://www.bibliography.com/how-to/how-to-write-a-bibliography-for-a-school-project/) for more information about writing bibliographies.
+    * You can add a **Citations** and/or a **References** section as well if those are more appropriate to support your research and documentation. See [this link](https://www.bibliography.com/how-to/difference-between-citations-and-references/) for more information.
 11. **Image credits** \(optional\)
 12. **Appendix** \(optional\)
 
