@@ -12,7 +12,7 @@ You will be creating and submiting a PDF document which can be exported from eit
    * Include a paragraph describing what you have learned since producing this work, and/or what you hope to improve upon for the upcoming project.
 2. Include **new work** that is representative of the skills and knowledge needed to complete the project.
    * Include a paragraph describing what you already feel comfortable producing, and what knowledge of skills will need to be acquired to produce the capstone project as it is proposed. 
+   * The new work should address the newest, most relevant, least familiar, or most difficult aspect of the project to demonstrate that you will be able to have success in completing the capstone project. 
    * **Examples:** See _**[project categories](https://dmd-program.github.io/art-design-course-resources/)**_ pages **Proof of Concept** sections.
 3. Name the document **_lastname_-proof-of-concept.pdf** and include images, screenshots, and paragraph descriptions from step 1 and 2 by the due dates indicated on Canvas.
    * Note: Do not submit a ZIP file with multiple files, rather complile your work into a single PDF. You can include a single video compiling the work you wish to show if the work is time based. If your work is interactive, create a screenrecording video to document the function of the interaction. If the work absolutely requires an external link to view the work, then represent the work with a screenshot in the document, and provide a link.
-
