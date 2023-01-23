@@ -6,7 +6,7 @@ The proof itself depends on the type of project and media being used. However, t
 
 ## Submission details
 
-You will be creating and submiting a PDF presentation document which can be exported from either MS Word or PowerPoint, or the equivelent Google products with the following:
+You will be creating and submiting a **PDF presentation** document which can be exported from either MS Word or PowerPoint, or the equivelent Google products with the following:
 
 1. Include an example of **past work** that is related to your project.
    * Include a paragraph describing what you have learned since producing this work, and/or what you hope to improve upon for the upcoming project.
