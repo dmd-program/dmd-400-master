@@ -6,7 +6,7 @@ The proof itself depends on the type of project and media being used. However, t
 
 ## Submission details
 
-You will be creating and submiting a PDF document which can be exported from either MS Word or PowerPoint, or the equivelent Google products with the following:
+You will be creating and submiting a PDF presentation document which can be exported from either MS Word or PowerPoint, or the equivelent Google products with the following:
 
 1. Include an example of **past work** that is related to your project.
    * Include a paragraph describing what you have learned since producing this work, and/or what you hope to improve upon for the upcoming project.
@@ -15,4 +15,4 @@ You will be creating and submiting a PDF document which can be exported from eit
    * The new work should address the newest, most relevant, least familiar, or most difficult aspect of the project to demonstrate that you will be able to have success in completing the capstone project. 
    * **Examples:** See _**[project categories](https://dmd-program.github.io/art-design-course-resources/)**_ pages **Proof of Concept** sections.
 3. Name the document **_lastname_-proof-of-concept.pdf** and include images, screenshots, and paragraph descriptions from step 1 and 2 by the due dates indicated on Canvas.
-   * Note: Do not submit a ZIP file with multiple files, rather complile your work into a single PDF. You can include a single video compiling the work you wish to show if the work is time based. If your work is interactive, create a screenrecording video to document the function of the interaction. If the work absolutely requires an external link to view the work, then represent the work with a screenshot in the document, and provide a link.
+   * **Note:** Do not submit a ZIP file with multiple files, rather complile your work into a single PDF presentation. You can include a screenshot and link to a single video reel compiling the work you wish to show if the work is time based, or screenshots and links to multiple videos. If your work is interactive, create a screenrecording video to document the function of the interaction with accompanying screenshot and link. All links should be accompanied by screenshots or images that act as a preview of the work.
