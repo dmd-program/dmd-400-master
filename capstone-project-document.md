@@ -13,7 +13,7 @@ Documentation must be provided as a PDF document.
 1. **Title page**
    1. Title of project
    2. Subtitle \(type of media - eg. "An animated film" or "Web Application"\)
-   3. Your Name
+   3. Your Name (this will be public, if you are using a pseudonym, please use it here.)
    4. Semester and year \(ie. FALL 2019\)
    5. "Undergraduate capstone project documentation"
    6. Instructor name
