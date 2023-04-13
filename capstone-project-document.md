@@ -16,7 +16,7 @@ Documentation must be provided as a PDF document.
    3. Your Name
    4. Semester and year \(ie. FALL 2019\)
    5. "Undergraduate capstone project documentation"
-   6. Instructor name \([see this page for information](/instructor.md)\)
+   6. Instructor name
 2. **School information**
    1. The Pennsylvania State University
    2. B.Des in Digital Multimedia Design
