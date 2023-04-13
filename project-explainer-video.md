@@ -1,16 +1,30 @@
 # Project explainer video
 
-Produce a ***short*** video presentation that documents and explains the project process and outcomes for a general audience unfamiliar with the work \(1-3 minutes\).
+Produce a ***short*** video presentation that documents and explains the project process and outcomes for a general audience unfamiliar with the work \(~2-3 minutes\).
 
-## Creating the video
+## Structuring the presentation
 
 There are different approaches to documentation video. A typical documentation video consists of the following:
 
-1. Short concept statement on screen, including title. Ensure that it is visible long enough to be read. This should simply be readable white text on a black background.
-2. Images or video clips showing the work at various stages of development, or key aspects that you developed to make the project successful.
-3. Overlay text on top of the images and video to describe the project's development and outcomes. Alternatively, you can use voice narration to describe the project.
+1. Project title and name screen
+2. Short overview statement, typically white, bold text on a black background. Ensure that it is visible on screen long enough to be read by the viewer.
+3. Photographs, images or video clips showing the research or key aspects that you developed to make the project successful.
+4. Photographs, images or video clips showing the production of the project at various stages of development. You can photograph yourself or others participating in the experience or show relevant digital images that give the audience context of your narration. 
+ - Figure out the best way to communicate the things you are making. This can be screen captured videos or images, photographs of in-progress work, diagrams, etc.
+5. List and outcomes, insights, or lessons learned.
 
-## Software Tutorials
+You can overlay text on top of the images and video to describe the project's development and outcomes along with voice narration to describe the project. Do not leave the images and video up to interpretation.
+
+## Creating and exporting the video (recommended)
+
+1. Create a presentation folder on your computer and save everything to this folder.
+2. Create a PowerPoint or Google Slides presentation in widescreen aspect ratio
+3. Export the slides as images
+4. Record an audio narration for each slide using quicktime (should be about 1-3 minutes of audio)
+5. Import the images and audio into premiere pro or aftereffects
+6. Edit and export using H.264 format. This should be a small file size. 
+
+## Additional software tutorials
 
 ### Recording and editing software
 
@@ -18,7 +32,6 @@ There are different approaches to documentation video. A typical documentation v
   * Apple Quicktime
   * [How record your screen with Quicktime](https://etc.usf.edu/techease/4all/getting-started/creating-screen-recordings-with-quicktime-player/#accessvid)
 * [Screenflow](https://www.telestream.net/screenflow/overview.htm) (free trial)
-  * [Lynda course](https://www.lynda.com/Screenflow-tutorials/ScreenFlow-8-Essential-Training/711817-2.html?org=psu.edu)
 * [Camtasia](https://www.techsmith.com/video-editor.html) (free trial)
   * [LinkedIn Learning](https://www.linkedin.com/learning/camtasia-2019-essential-training-the-basics/introducing-camtasia-2019?u=76811570)
 * Zoom
@@ -41,13 +54,11 @@ Videos should be exported as a `.mp4` file with an h.264 codec. This is most com
 
 * [How to export in H.264 format with Adobe Premiere](https://www.evscicats.com/tutorials/export-mp4-video-for-youtube-vimeo/)
 
-Videos should be smaller than 500MB. To decrease your filesize, you can try the following:
-* Ensure you are using the h.264 codec
-* Decrease your video's bitrate in the export settings \(for refernce check out the [recommended bitrate settings](https://support.google.com/youtube/answer/1722171?hl=en) for YouTube\). Bitrate is basically how much detail goes into each frame of your video.
+Videos should be smaller than 500MB. To decrease your file size, you can try the following:
+* Ensure you are using the h.264 codec when exporting. Use the share feature in quicktime to export a large video.
+* Decrease your video's bitrate in the export settings \(for reference check out the [recommended bitrate settings](https://support.google.com/youtube/answer/1722171?hl=en) for YouTube\). Bitrate is basically how much detail goes into each frame of your video.
 * If you aren't happy with the results from that you can always decrease the overall size of your video to 1280px by 720px or something similar.
 
 ## Submission details
 
-Upload your video to YouTube.
-
-You can set it to "unlisted" if you don't want it fully accessible within YouTube. \(The video will still be visible on the exhibition site.\)
+Submit this video as part of the documentation step.
