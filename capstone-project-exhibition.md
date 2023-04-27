@@ -38,7 +38,7 @@ The exhibition website uses a site generator, and is sensitive to file names. Pl
 
 ### Instructions:
 
-**Download (Right click → Save As):** [Media template files (5.9MB)](//assets/media-templates.zip)
+**Download (Right click → Save As):** [Media template files (5.9MB)](https://github.com/dmd-program/dmd-course-graphics/raw/master/media-templates.zip)
 
 Unless you are using a pseudonym, replace **[last-name]** in the file with your last name and **[first-name]** with your first name.
 
