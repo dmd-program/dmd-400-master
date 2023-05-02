@@ -77,6 +77,8 @@ The exhibition card image will be displayed on the exhibition projects index pag
 
 **File name:** `last-name_first-name-exhibition-card-image-1200x600.jpg`
 
+![exhibition card example image](/assets/exhibition-card-image-example.jpg)
+
 #### Gallery images
 
 Gallery images are shown on your project's profile page. Try to include between 3 to 12 images. Images can be close up views of details, documentation of process, etc. Do not include images larger than 2000px in any dimension. Use Photoshop to export `.jpg` images for display on the web at a compressed file size.
@@ -96,6 +98,12 @@ See image compression tutorial here: https://www.youtube.com/watch?v=sKmlptbrL4s
 Upload any videos to YouTube or Vimeo.
 
 You can set it to "unlisted" if you don't want it fully accessible within YouTube. \(The video will still be visible on the exhibition site.\)
+
+Enter only the video ID on the exhibition form. See examples below.
+
+![Youtube video id](/assets/youtube-id.jpg)
+
+![Vimeo video id](/assets/vimeo-id.jpg)
 
 #### Interactive elements
 
