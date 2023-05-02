@@ -29,6 +29,25 @@ The online exhibition is a wonderful opportunity to publicly showcase your work 
 - http://arts.siggraph.org/environment/
 - http://arts.siggraph.org/siggraph2011/
 
+## Uploading to the exhibition
+
+[Exhibition example from Spring 2023](https://sites.psu.edu/dmdexhibitions/dmd-400-capstone-spring-2023/)
+
+There is an exhibition media upload form listed in Canvas. You will use this form to upload your work to the exhibition website.
+
+**The exhibition form supports the following information and media:**
+
+* Your name and other information. Emails are not displayed on the website.
+* Image upload for your exhibition index card
+* A link to your production blog
+* Work/project statement
+* Other project links (IE - app prototypes, live project websites)
+* Upload for your PDF documentation
+* Youtube and Vimeo videos
+* A gallery of images (minimum of 3, maximum of 15)
+* iframe embed code if you would like to embed something from an online platform (IE - sketchfab.com 3D objects, codepen.io code, processing, etc.)
+* File downloads (IE - game executables) (Note: 42 MB max file size.)
+* Others upon request (request other media well in advance)
 
 ## Media
 
@@ -40,55 +59,61 @@ The exhibition website uses a site generator, and is sensitive to file names. Pl
 
 **Download Media template files (5.9MB) (Click the download button on this page):** [https://github.com/dmd-program/dmd-course-graphics/blob/master/media-templates.zip](https://github.com/dmd-program/dmd-course-graphics/blob/master/media-templates.zip)
 
-Unless you are using a pseudonym, replace **[last-name]** in the file with your last name and **[first-name]** with your first name.
+The templates are not editable. They simply demonstrate the required sizes of videos and card images for the exhibition website.
 
-If you ARE using a pseudonym, please use it in place of **\[last-name\]\[first-name\]**.
+Unless you are using a pseudonym, replace **last-name** in the file with your last name and **first-name** with your first name.
 
-#### Exhibition card image (required)
+If you ARE using a pseudonym, please use it in place of **last-name\_first-name**.
 
-The exhibition card image will be displayed on the exhibition projects index page card, along with other student's work. The project name and student name will be displayed under the card image.
+#### Exhibition card (index) image (required)
+
+The exhibition card image will be displayed on the exhibition projects index page, the listing of everyone's work. The project name and student name will be displayed under the card image, so there is no need for you to put your name and project title on the card.
 
 * Keep text to a minimum.
 * Do not include the name of the project unless it is part of a logo or branding.
 
-**File name:** `[last-name][first-name]-exhibition-card-image-1200x600.jpg`
+**File name:** `last-name\_first-name-exhibition-card-image-1200x600.jpg`
 
 #### Gallery images
 
-Gallery images are shown on your project's profile page. Try to include between 3 to 12 images. Images can be close up views of details, documentation of process, etc. Do not include images larger than 1200px in any dimension. Use Photoshop to export `.jpg` images for display on the web at a compressed file size.
+Gallery images are shown on your project's profile page. Try to include between 3 to 12 images. Images can be close up views of details, documentation of process, etc. Do not include images larger than 2000px in any dimension. Use Photoshop to export `.jpg` images for display on the web at a compressed file size.
 
-**File name:**
+See image compression tutorial here: https://www.youtube.com/watch?v=sKmlptbrL4s
 
-1. `[last-name][first-name]-gallery-image-01.jpg`
-2. `[last-name][first-name]-gallery-image-02.jpg`
-3. `[last-name][first-name]-gallery-image-03.jpg`
-4. `[last-name][first-name]-gallery-image-##.jpg`
+**File naming:**
+
+1. `last-name\_first-name-gallery-image-01.jpg`
+2. `last-name\_first-name-gallery-image-02.jpg`
+3. `last-name\_first-name-gallery-image-03.jpg`
+4. `last-name\_first-name-gallery-image-##.jpg`
 
 
 #### Video files
 
-Upload any videos to YouTube.
+Upload any videos to YouTube or Vimeo.
 
 You can set it to "unlisted" if you don't want it fully accessible within YouTube. \(The video will still be visible on the exhibition site.\)
 
 #### Interactive elements
 
-If you are using an embedded interactive element, please include the embed code in a `.txt` file. If your interactive elements require many files to operate, please include a `.zip` file of those files.
+If you are using an embedded interactive element, please include the embed code in a `.txt` file when submitting to canvas. If your interactive elements require many files to operate, please include a `.zip` file of those files.
 
 **File name:**
 
-`[last-name][first-name]-embed-01.txt` **or** `[last-name][first-name]-files-01.zip`
+`last-name\_first-name-embed-01.txt` **or** `last-name\_first-name-files-01.zip`
 
 #### Audio
 
 Convert audio files to `.mp3` so they may be playable from a web browser.
 
-**Example audio files:** `[last-name][first-name]-audio.mp3`
+**Example audio files:** `last-name\_first-name-audio.mp3`
   
 ## Submission details
 
 ***IMPORTANT:*** Follow the file naming conventions above.
 
 1. Submit the final project media to Canvas by the indicated date in a `.zip` file.
-2. Submit the exhibition information form on Canvas by the indicated date on Canvas.
+2. Upload your media using the exhibition form listed in Canvas.
+  * 42 MB is the maximum file size.
+3. Submit the exhibition information form on Canvas by the indicated date on Canvas.
 
