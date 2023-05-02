@@ -37,6 +37,8 @@ The online exhibition is a wonderful opportunity to publicly showcase your work 
 * [Branding example from Fall 2020](https://dmd.psu.edu/exhibition-20fa-dmd400/projects/grill-aviv/)
 * [Physical exhibition from Spring 2023](https://sites.psu.edu/dmdexhibitions/dmd-400-capstone-spring-2023/entry/35/)
 * [Interactive storytelling from Spring 2023](https://sites.psu.edu/dmdexhibitions/dmd-400-capstone-spring-2023/entry/44/)
+* [Documentary filmmaking from Fall 2022](https://sites.psu.edu/dmdexhibition22fa/2023/01/20/rachel-brunner/)
+* [Web design from Fall 2022](https://sites.psu.edu/dmdexhibition22fa/2023/01/15/carly-mojica/)
 
 There is an exhibition media upload form listed in Canvas. You will use this form to upload your work to the exhibition website.
 
