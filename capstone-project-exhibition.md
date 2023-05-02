@@ -31,7 +31,12 @@ The online exhibition is a wonderful opportunity to publicly showcase your work 
 
 ## Uploading to the exhibition
 
-[Exhibition example from Spring 2023](https://sites.psu.edu/dmdexhibitions/dmd-400-capstone-spring-2023/)
+**Selected DMD exhibition project examples:**
+
+* [UX/UI example from Fall 2019](https://dmd.psu.edu/exhibition-19fa-dmd400/projects/cerka-carolyne/)
+* [Branding example from Fall 2020](https://dmd.psu.edu/exhibition-20fa-dmd400/projects/grill-aviv/)
+* [Physical exhibition from Spring 2023](https://sites.psu.edu/dmdexhibitions/dmd-400-capstone-spring-2023/entry/35/)
+* [Interactive storytelling from Spring 2023](https://sites.psu.edu/dmdexhibitions/dmd-400-capstone-spring-2023/entry/44/)
 
 There is an exhibition media upload form listed in Canvas. You will use this form to upload your work to the exhibition website.
 
