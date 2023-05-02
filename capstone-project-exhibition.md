@@ -39,11 +39,14 @@ There is an exhibition media upload form listed in Canvas. You will use this for
 
 * Your name and other information. Emails are not displayed on the website.
 * Image upload for your exhibition index card
+* Explainer video from Youtube or Vimeo.
+  * Do not use the full URL, only the video ID. Remove any video ID URL modifiers such as '&T=3s'.
 * A link to your production blog
 * Work/project statement
 * Other project links (IE - app prototypes, live project websites)
 * Upload for your PDF documentation
 * Youtube and Vimeo videos
+  * Do not use the full URL, only the video ID. Remove any video ID URL modifiers such as '&T=3s'.
 * A gallery of images (minimum of 3, maximum of 15)
 * iframe embed code if you would like to embed something from an online platform (IE - sketchfab.com 3D objects, codepen.io code, processing, etc.)
 * File downloads (IE - game executables) (Note: 42 MB max file size.)
@@ -72,7 +75,7 @@ The exhibition card image will be displayed on the exhibition projects index pag
 * Keep text to a minimum.
 * Do not include the name of the project unless it is part of a logo or branding.
 
-**File name:** `last-name\_first-name-exhibition-card-image-1200x600.jpg`
+**File name:** `last-name_first-name-exhibition-card-image-1200x600.jpg`
 
 #### Gallery images
 
@@ -82,10 +85,10 @@ See image compression tutorial here: https://www.youtube.com/watch?v=sKmlptbrL4s
 
 **File naming:**
 
-1. `last-name\_first-name-gallery-image-01.jpg`
-2. `last-name\_first-name-gallery-image-02.jpg`
-3. `last-name\_first-name-gallery-image-03.jpg`
-4. `last-name\_first-name-gallery-image-##.jpg`
+1. `last-name_first-name-gallery-image-01.jpg`
+2. `last-name_first-name-gallery-image-02.jpg`
+3. `last-name_first-name-gallery-image-03.jpg`
+4. `last-name_first-name-gallery-image-##.jpg`
 
 
 #### Video files
@@ -100,20 +103,20 @@ If you are using an embedded interactive element, please include the embed code 
 
 **File name:**
 
-`last-name\_first-name-embed-01.txt` **or** `last-name\_first-name-files-01.zip`
+`last-name_first-name-embed-01.txt` **or** `last-name_first-name-files-01.zip`
 
 #### Audio
 
 Convert audio files to `.mp3` so they may be playable from a web browser.
 
-**Example audio files:** `last-name\_first-name-audio.mp3`
+**Example audio files:** `last-name_first-name-audio.mp3`
   
 ## Submission details
 
 ***IMPORTANT:*** Follow the file naming conventions above.
 
 1. Submit the final project media to Canvas by the indicated date in a `.zip` file.
-2. Upload your media using the exhibition form listed in Canvas.
-  * 42 MB is the maximum file size.
-3. Submit the exhibition information form on Canvas by the indicated date on Canvas.
+  * Canvas does not have a file size limitation, the 42MB limit is for exhibition website uploads.
+2. Upload your media and exhibition project information using the exhibition form listed in Canvas.
+  * 42 MB is the maximum file size for any one file.
 
