@@ -1,10 +1,17 @@
 # Capstone project document
 
-Develop a project document that gives readers a clear understanding of your project, from beginning to end. 
+Develop a project document that gives readers a clear understanding of your project, from beginning to end. This may be very similar to a project explainer video, where you essentially cover all aspects of the project.
 
 Documents should be created in **Adobe InDesign** if possible. Documents produced in MS Word are less preferred, but acceptable. InDesign allows greater customization with layout and typography, to allow you to showcase your design abilities and ensure you are familiar with Adobe's industry standard publication software.
 
-Documentation must be provided as a PDF document.
+## Example of excellent project documents
+
+- [A world of our own, by Grace Brown](https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/7/143171/files/formidable/2/2023-12-04/Brown_Project_Document-8da963.pdf)
+
+
+## Format
+1. Documentation must be provided as a PDF document.
+2. Letter format (8.5 × 11 inches)
 
 ## Document structure:
 
@@ -15,12 +22,12 @@ Documentation must be provided as a PDF document.
    4. Semester and year \(ie. FALL 2023\)
    5. "Undergraduate capstone project documentation"
    6. Instructor name
-2. **School information**
+2. **School information page**
    1. The Pennsylvania State University
    2. B.Des in Digital Multimedia Design
-3. **Acknowledgements** (optional but recommended)
+3. **Acknowledgements page** (optional but recommended)
    1. Acknowledge anyone who has had an impact on the success of your project. Typically this would be advisors, mentors, family, and friends who have helped you along the way.   
-4. **Table of contents**
+4. **Table of contents** <-- Only include everything after the table of contents. Do not include the table of contents page in the table. 
 5. **Project overview**
    * Describe what your project is, what it's about, how you approached it, and what the outcomes were.
 6. **Concept development**
