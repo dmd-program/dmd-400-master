@@ -2,16 +2,19 @@
 
 Produce a ***short*** video presentation that documents and explains the project process and outcomes for a general audience unfamiliar with the work \(~2-3 minutes\).
 
+## Example of excellent explainer videos
+- [A world of our own by Grace Brown](https://www.youtube.com/watch?v=8qZdaVe8h2U)
+  
 ## Structuring the presentation
 
 There are different approaches to documentation video. A typical documentation video consists of the following:
 
 1. Project title and name screen
-2. Short overview statement, typically white, bold text on a black background. Ensure that it is visible on screen long enough to be read by the viewer.
-3. Photographs, images or video clips showing the research or key aspects that you developed to make the project successful.
-4. Photographs, images or video clips showing the production of the project at various stages of development. You can photograph yourself or others participating in the experience or show relevant digital images that give the audience context of your narration. 
+2. **Concept:** Short overview statement, typically white, bold text on a black background. Ensure that it is visible on screen long enough to be read by the viewer.
+3. **Research:** Photographs, images or video clips showing the research or key aspects that you developed to make the project successful.
+4. **Production process:** Photographs, images or video clips showing the production of the project at various stages of development. You can photograph yourself or others participating in the experience or show relevant digital images that give the audience context of your narration. 
  - Figure out the best way to communicate the things you are making. This can be screen captured videos or images, photographs of in-progress work, diagrams, etc.
-5. List and outcomes, insights, or lessons learned.
+5. **Project outcomes:** Include any of the following — Results of the project, insights, lessons learned, and plans for the future.
 
 You can overlay text on top of the images and video to describe the project's development and outcomes along with voice narration to describe the project. Do not leave the images and video up to interpretation.
 
