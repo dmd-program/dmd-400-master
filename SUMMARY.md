@@ -7,7 +7,7 @@
 * [Capstone project](capstone-project.md)
   * [1. Project proposal](capstone-project-proposal.md)
   * [2. Project agreement form](capstone-project-agreement-form.md)
-  * [3. Proof of ability](capstone-project-proof-of-ability.md)
+  * [3. Proof of ability](capstone-project-evidence-of-ability.md)
   * [3. Research](capstone-project-research.md)
   * [4. Production reports](capstone-project-production-report.md)
   * [5. Midterm video](project-midterm-video.md)

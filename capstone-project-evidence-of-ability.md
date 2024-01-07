@@ -1,4 +1,4 @@
-# Proof of ability
+# Evidence of ability
 
 A proof of ability is a small demonstration of a skill or capability that is indicative of your ability to complete a larger work using the same tools and techniques. If you struggle to complete a proof of ability for your intended project, you may need to rethink the scope of your work, or reduce the need for complex technical skills. You can still convey a compelling project idea by being resourceful and adaptable in the production approach when faced with insurmountable technical obstacles.
 
