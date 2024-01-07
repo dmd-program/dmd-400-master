@@ -46,8 +46,8 @@ The following must be included in the proposal:
    * List all steps anticipated in the production of the project and assign them to a due date. The timeline can be graphic in nature so long as it is readable.
    * Ensure the timeline is feasible.
 9. **Research**
-   * What areas of research do you intend to pursue during the production of this project?
-     * Your project should include either a contemporary critical issue, explore critical theory, or relate the project to design methods and principles.    
+   * What areas of research do you intend to pursue during the production of this project? Examples include any technical or craft aspects of the project, required visual research, user research, design thinking or methods research, and others. Please see the [research](/capstone-project-research.md) page for more details. 
+     * Your project should either include a contemporary critical issue, explore critical theory, or relate the project to design methods and principles.    
    * What research resources available to you?
 10. **Questions for your proposal reviewers**
    * List three questions that might help you better some aspect of the project. Avoid vague questions such as, “_Is this a good project_?” or “_What should I do?_”. Instead focus your questions on the specific areas of your project that could benefit from feedback.
@@ -56,7 +56,7 @@ The following must be included in the proposal:
 
 Does the proposal include all specified sections? Are all sections thoughtfully considered and fully developed? Is this proposal free from spelling and grammar errors? If so, submit the following:
 
-1. MS Word document
+1. See submission format in canvas
 
 
 
