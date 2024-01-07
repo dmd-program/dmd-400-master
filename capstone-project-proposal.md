@@ -2,7 +2,7 @@
 
 The capstone project proposal is the first step in producing a capstone project for the Digital Multimedia Design degree program. It asks you to think through the entire production process of the upcoming project, and helps you identify what research you'll need to conduct.
 
-The following must be included in the proposal: \(Download: [MS Word template](/assets/dmd400-capstone-project-proposal.docx) - Right click to save to your computer.\)
+The following must be included in the proposal:
 
 1. **Title page**
    1. Project Title
@@ -21,8 +21,9 @@ The following must be included in the proposal: \(Download: [MS Word template](/
    * What topics and theory need to be researched?
    * Who is the intended audience?
 4. **Advisor**
-   * Project advisor name
-     * The advisor can be a mentor or client you are working with to develop the project.  Choose a faculty member, industry professional, or real-world client that you will have at least three interactions with in order to facilitate the development of your project. This should be someone who is an expert in either the content area of your project or an expert in the technical area of your project.
+   * Project advisor name and job title
+   * Advisor area of expertise
+     * The advisor should not be a project client you are working with to develop the project. Find an industry professional that you will have at least three meetings with in order to facilitate the development of your project. This should be someone who is expert in the technical area of your project. If your project includes field specific knowledge outside of the digital arts, you may also want to find an expert in this field (IE – if your project attempts to teach about ).
    * Contact email address for advisor, mentor or client
    * Background or qualifications for advisor, mentor or client
 5. **Production scope**
