@@ -1,12 +1,14 @@
-# Research
+# Project research expectations
 
-Research expectations can differ between projects. For the Digital Multimedia Design Capstone course, students can select from a variety of media types that correspond to their fields of interest. Research is integral to the design process as you have seen in previous courses in the DMD program. The importance of conducting research in a design process can be summed up by the following:
+Research expectations can differ between projects. For the Digital Multimedia Design Capstone course, students can select from a variety of media types that correspond to their fields of interest. Research is integral to the design process that you will be using for the capstone project, and therefore, everyone will incorporate appropriate research methods into their production timelines. The importance of conducting research can be summed up by the following:
 
-1. Contextualizes your work within the broader landscape of work
-2. Helps to base your design work on current standards and the latest thinking in the discipline
-3. Drives your design decisions based on credible ideas, facts, and data — communicating the rationale of your design decisions
-4. Eliminates as much harmful bias as possible. Everyone will inevitably bring bias to the design process
-5. A well researched project leads to a credible project and a well designed project 
+**Research...**
+
+1. Contextualizes your work within the broader landscape of work;
+2. Helps to base your design work on current standards and the latest thinking in the discipline;
+3. Drives your design decisions based on credible ideas, facts, and data — communicating the rationale of your design decisions;
+4. Eliminates as much harmful bias as possible. Everyone will inevitably bring bias to the design process;
+5. A well researched project leads to a credible, unique, and a well designed project .
 
 ## Discipline specific
 

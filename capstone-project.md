@@ -8,12 +8,13 @@ The capstone project is broken down into the following deliverable categories. S
 
 1. [Proposal](/capstone-project-proposal.md)
 2. [Agreement form](/capstone-project-agreement-form.md)
-3. [Proof of concept](/capstone-project-proof-of-concept.md)
-4. [Progress reports](/capstone-project-review-1.md)
-5. [Statement](/capstone-project-statement.md)
-6. [Project document](/capstone-project-document.md)
-7. [Project explainer video](/project-explainer-video.md)
-8. [Capstone project exhibition](/capstone-project-exhibition.md)
+3. [Evidence of ability](/capstone-project-evidence-of-ability.md)
+4. [Research](/capstone-project-research.md)
+5. [Progress reports](/capstone-project-review-1.md)
+6. [Statement](/capstone-project-statement.md)
+7. [Project document](/capstone-project-document.md)
+8. [Project explainer video](/project-explainer-video.md)
+9. [Capstone project exhibition](/capstone-project-exhibition.md)
 
 ## Expectations
 
