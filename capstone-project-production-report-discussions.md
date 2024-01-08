@@ -10,7 +10,7 @@ You will post step 1, and then you may have to return to complete part 2. Try to
   - How it's going
   - Problems, challenges, opportunities
   - Respond to any questions that you may get from others.
-2. **(DUE 1 week after due date)** Review at least 3 classmates' work and leave feedback. Pay attention to the following:
+2. **(DUE within 1 week after due date)** Review at least 3 classmates' work and leave feedback. Pay attention to the following:
   - Use art and design vocabulary where applicable
   - Does the student's project seem like it's on track based on the timeline?
   - Identify artists, designers, or related projects to recommend for inspiration.
@@ -20,5 +20,8 @@ You will post step 1, and then you may have to return to complete part 2. Try to
 ## Rubric:
 
 You will be graded based on the completeness of your production report and your feedback and comments on peer work as described in the instructions.
+
+1. Posted a blog link and inlcuded the summary requirements on time
+2. Commented on at least three peer reports on time. (Please choose another report to comment on if it already has three postings.)
 
 
