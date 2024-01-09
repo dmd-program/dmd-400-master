@@ -18,7 +18,7 @@ Research expectations can differ between projects. For the Digital Multimedia De
 
 Research can mean many things in the context of an digital art or design project. Here are some commonalities between capstone projects:
 
-1. All projects will likely include research into the techniques and tools that may be best suited to completing the project.
+1. Projects may include research into the tools, techniques, and methods that may be best suited to completing the project.
 2. Most projects are visual in nature, and will likely include visual research of some kind.
 3. When working with sensitive or discipline specific subjects outside of your expertise such as health, social issues, politics, the environment, etc., you will need to rely on experts or scholarly publications as your sources for data.
 
