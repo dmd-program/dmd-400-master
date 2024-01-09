@@ -12,7 +12,6 @@ Research expectations can differ between projects. For the Digital Multimedia De
 6. Drives your design decisions based on credible ideas, facts, and data — communicating the rationale of your design decisions;
 7. Helps to transform vague problems into understandable problems through exploration and investigation
 8. Provides a "systems" context and awareness (historical, professional, cultural, social, political, environmental, economic, etc.)  to a problem space.
-9. Has credible sources and references.
 
 ## Universal requirements
 
@@ -20,7 +19,8 @@ Research can mean many things in the context of an digital art or design project
 
 1. Projects may include research into the tools, techniques, and methods that may be best suited to completing the project.
 2. Most projects are visual in nature, and will likely include visual research of some kind.
-3. When working with sensitive or discipline specific subjects outside of your expertise such as health, social issues, politics, the environment, etc., you will need to rely on experts or scholarly publications as your sources for data.
+3. When working with sensitive or discipline specific subjects outside of your expertise such as health, social issues, politics, the environment, etc., you will need to rely on credible experts or scholarly publications as your sources for data.
+3. Cited sources should be from scholarly publications. Google Scholar search engine is a good starting point.
 
 ## Primary vs secondary research
 
