@@ -14,7 +14,7 @@ The following must be included in the proposal:
    * Here you will list what you know, and what you are interested in. This should be related to the project concept. \(IE - if you are skilled and interested in web development, it would be confusing to then propose an animation project.\)
    * List existing digital media skills and other relevant skills.
    * List any skills you hope to obtain during this project.
-3. **Concept**
+3. **[Concept](/concept-development.md)**
    * Concise description of the project ideas.
    * What design methods will be used?
    * What production tools will be used?
