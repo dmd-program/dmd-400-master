@@ -22,7 +22,7 @@ You will post step 1, and then you may have to return to complete part 2. Try to
 
 You will be graded based on the completeness of your production report and your feedback and comments on peer work as described in the instructions.
 
-1. Posted a blog link and inlcuded the summary requirements on time
+1. Posted a blog link and included the summary requirements on time.
 2. Commented on at least three peer reports on time. (Please choose another report to comment on if it already has three postings.)
 
 
