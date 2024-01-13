@@ -27,7 +27,7 @@ While it would be nice to assume the everyone in the professional world will be 
 Here is an example of an email that you could write to someone to try to elicit their feedback. I would recommend rewriting this in your own voice and writing style.
 
 ```
-Dear [the name of ther person],
+Dear [the name of the person],
 
 I am a student in the Penn State Digital Multimedia Design Capstone 
 course, and I am developing a project this semester that I was hoping 
