@@ -29,11 +29,12 @@ Here is an example of an email that you could write to someone to try to elicit 
 ```
 Dear [the name of the person],
 
-I am a student in the Penn State Digital Multimedia Design Capstone 
+I am a student in the Penn State Digital Multimedia Design capstone 
 course, and I am developing a project this semester that I was hoping 
 to get your perspective on. Given your background and expertise, 
-your input would be really beneficial. Are you interested in having a 
-quick conversation with me about this? Thanks so much for your time.
+your input would be really beneficial. I would love the opportunity to 
+discuss my project with you if you are interested.
+Thanks so much for your time.
 
 Sincerely,
 [yournamehere]
