@@ -4,7 +4,11 @@ The course will culminate in a public online exhibition of course work. This exh
 
 Do not submit work to the online exhibition space that is not your own that could construed as a copyright violation. This includes copyrighted music, images, video, and other works that are protected under copyright laws. If you worked with other people who have a claim over the copyright of the works, please have documentation on hand that clearly shows that you were given permission to showcase the work, either through a creative commons license, or through other types of permissions.
 
-The online exhibition is a wonderful opportunity to publicly showcase your work and writing skills. See these examples of other online art and design exhibitions:
+The online exhibition is a wonderful opportunity to publicly showcase your work and writing skills.
+
+[DMD Exhibition Website Link](https://sites.psu.edu/dmdexhibitions/)
+
+See these examples of other online art and design exhibitions:
 
 **Art and design exhibitions (physical)**
 
