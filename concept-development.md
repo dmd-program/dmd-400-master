@@ -11,7 +11,7 @@ In DMD 100, students are guided through the entire production of design projects
 3. Strategically aligned
 4. Understandable by others
 
-**Features of impactful and relevant project concepts**
+**Features of impactful and relevant project concepts** (Has one or more of the following)
 
 1. Identifies or solves problems for people, organizations, and businesses
 2. Invention and/or unexpected combinations to produce novelty
