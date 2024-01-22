@@ -22,7 +22,7 @@ While it would be nice to assume the everyone in the professional world will be 
  * [IDSA](https://www.idsa.org/)
 * [ADP List](https://adplist.org/)
 
-## Sending a cold email or direct message
+## Sending an email or direct message
 
 Here is an example of an email that you could write to someone to try to elicit their feedback. I would recommend rewriting this in your own voice and writing style.
 
@@ -31,9 +31,10 @@ Dear [the name of the person],
 
 I am a student in the Penn State Digital Multimedia Design capstone 
 course, and I am developing a project this semester that I was hoping 
-to get your perspective on. Given your background and expertise, 
-your input would be really beneficial. I would love the opportunity to 
-discuss my project with you if you are interested.
+to get your perspective on. I am making a [type of media] project that
+focuses on [why you are making the project]. Given your background
+and expertise, your input would be really beneficial. I would love
+the opportunity to discuss my project with you if you are interested.
 Thanks so much for your time.
 
 Sincerely,
