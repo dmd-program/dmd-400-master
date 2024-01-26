@@ -5,12 +5,12 @@ Research expectations can differ between projects. For the Digital Multimedia De
 **Research...**
 
 1. Contextualizes your work within the broader landscape of work;
-2. Helps to base your design work on current standards and the latest thinking in the discipline;
-3. Eliminates as much harmful bias as possible. Everyone will inevitably bring bias to the design process;
-4. A well researched project leads to a credible, unique, and a well designed project.
+2. Elevates your work to be based on current standards and the latest thinking in the discipline;
+3. Removes harmful bias as much as possible relying mainly on deductive reasoning strategies. Inductive reasoning is helpful for the telling of personal stories.
+4. Leads to a credible, unique, and a well designed project.
 5. Can be conducted via a "method" (methodology is the study of methods, outside the scope of this degree program)
 6. Drives your design decisions based on credible ideas, facts, and data — communicating the rationale of your design decisions;
-7. Helps to transform vague problems into understandable problems through exploration and investigation
+7. Transforms vague problems into understandable problems through exploration and investigation
 8. Provides a "systems" context and awareness (historical, professional, cultural, social, political, environmental, economic, etc.)  to a problem space.
 
 ## Universal requirements
