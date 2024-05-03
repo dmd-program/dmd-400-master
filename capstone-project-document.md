@@ -11,7 +11,8 @@ Documents should be created in **Adobe InDesign** if possible. Documents produce
 
 ## Format
 1. Documentation must be provided as a PDF document.
-2. Letter format (8.5 × 11 inches)
+2. Letter size format, portrait (8.5 × 11 inches)
+3. Text: Left aligned
 
 ## Document structure:
 
