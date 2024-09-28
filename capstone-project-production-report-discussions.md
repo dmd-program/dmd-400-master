@@ -10,7 +10,7 @@ You will post step 1, and then you may have to return to complete part 2. Try to
   - How it's going
   - Problems, challenges, opportunities
   - Respond to any questions that you may get from others.
-2. **(DUE within 1 week after due date)** Review at least 3 classmates' work and leave feedback. Pay attention to the following:
+2. **(DUE within 3 days after due date)** Review at least 3 classmates' work and leave feedback. Pay attention to the following:
   - You liking the project is nice, but not particularly helpful feedback. Try to help your classmate improve their work.
   - Use art and design vocabulary where applicable
   - Does the student's project seem like it's on track based on the timeline?
