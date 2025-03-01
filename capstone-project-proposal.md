@@ -43,8 +43,9 @@ The following must be included in the proposal:
      * What required capabilities and skills do you not currently possess that are needed to complete the project.
      * Explain how you will you get up to speed in time.
 8. **Timeline**
-   * List all steps anticipated in the production of the project and assign them to a due date. The timeline can be graphic in nature so long as it is readable.
+   * Assign all steps anticipated in the production of the project **by week** and inlcude dates. The timeline can be graphic in nature so long as it is readable.
    * Ensure the timeline is feasible.
+   * It's okay for your timeline to be updated as you progress to better serve the project or adjust for scope changes.
 9. **Research**
    * What areas of research do you intend to pursue during the production of this project? Examples include any technical or craft aspects of the project, required visual research, user research, design thinking or methods research, and others. Please see the [research](/capstone-project-research.md) page for more details. 
      * Your project should either include a contemporary critical issue, explore critical theory, or relate the project to design methods and principles.    
