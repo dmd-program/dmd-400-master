@@ -13,7 +13,7 @@ There are different approaches to documentation video. A typical documentation v
 2. **Concept:** Short overview statement, typically white, bold text on a black background. Ensure that it is visible on screen long enough to be read by the viewer.
 3. **Research:** Photographs, images or video clips showing the research or key aspects that you developed to make the project successful.
 4. **Production process:** Photographs, images or video clips showing the production of the project at various stages of development. You can photograph yourself or others participating in the experience or show relevant digital images that give the audience context of your narration. 
- - Figure out the best way to communicate the things you are making. This can be screen captured videos or images, photographs of in-progress work, diagrams, etc.
+   - Figure out the best way to communicate the things you are making. This can be screen captured videos or images, photographs of in-progress work, diagrams, etc.
 5. **Project outcomes:** Include any of the following — Results of the project, insights, lessons learned, and plans for the future.
 
 You can overlay text on top of the images and video to describe the project's development and outcomes along with voice narration to describe the project. Do not leave the images and video up to interpretation.
@@ -23,9 +23,10 @@ You can overlay text on top of the images and video to describe the project's de
 1. Create a presentation folder on your computer and save everything to this folder.
 2. Create a PowerPoint or Google Slides presentation in widescreen aspect ratio
 3. Export the slides as images
-4. Record an audio narration for each slide using quicktime (should be about 1-3 minutes of audio)
-5. Import the images and audio into premiere pro or aftereffects
-6. Edit and export using H.264 format. This should be a small file size. 
+4. Record a voice narration for each slide (quicktime recording recommended) (should be about 1-3 minutes of audio)
+   - **Note:** Do NOT put a soundtrack or music behind the voice narration.
+6. Import the images and audio into premiere pro or aftereffects
+7. Edit and export using H.264 format. This should be a small file size. 
 
 ## Additional software tutorials
 
