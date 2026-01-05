@@ -44,10 +44,4 @@ Recommended blog platforms:
 
 Post a link to the relevant blog post in each week's Canvas discussion.
 
-## Grading Rubric
 
-*These assignments are Pass/Fail.*
-
-**Passing:** In order to get a passing mark, you will need to show significant progress in research and production through documentation. Significant progress should demonstrate 30 hours of work. The overall project will require 100-130 hours of work.
-
-**Failing:** A failing mark indicates that you have not achieved confidence from the capstone course instructor that you will be able to complete the capstone project in the current pace of progress. If you have three failing progress reports, you will be asked to withdraw or drop from the capstone course. If you are unable to complete the project to the level indicated in your project proposal, your project will be assessed as incomplete, and you will have to retake the course.
