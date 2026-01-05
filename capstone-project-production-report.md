@@ -6,26 +6,43 @@ A production report is a comprehensive update about what progress has been made 
 
 Reports will be due regularly throughout the course to document your progress.
 
-## Production blog
+## What to include:
+
+### Timesheet
+
+Include an approximate breakdown of how much time you spent on your classwork. This is good practice for tracking your time in professional settings and helps your instructor assess your work. Aim for 8 hours each week, for example:
+
+- Researching website platforms: 1 hour
+- Writing content outline: 1 hour
+- Collecting visual design inspiration: 1 hour
+- Figma mockup: 3 hours
+- Writing blog post: 1 hour
+
+You can get more specific if you want. Free apps like [Toggl](https://toggl.com/track/automated-time-tracker/) let you set timers on your computer and generate timesheets. 
+
+### Reply to Feedback
+
+Write a short response to recent feedback you received from your instructor, advisor, or classmates. \(Aprox. 100 words\)
+
+### Open-ended writing
+
+Describe your research, process, goals, and so on for the bulk of the post. Include images and screenshots to document the state of your project. 
+
+Make sure to include links to any online files or websites you've created. The more you share the better!
+
+## Platforms
 
 The production blog can be hosted anywhere. If you already have a blog created, you may use your existing blog to track progress for this project.
 
-Hosted blog choices include:
+Recommended blog platforms:
 
-- [Medium.com](http://medium.com)
-- [Wix](https://www.wix.com/)
-- [WordPress.com](http://wordpress.com)
-- [Blogger](https://www.blogger.com)
-- [Tumblr](https://www.tumblr.com/)
 - [sites.psu.edu](https://sites.psu.edu)
-- [Github Pages](https://pages.github.com/)
-- [Squarespace](http://squarespace.com)
-- [Weebly](https://www.weebly.com/)
+- [Notion](notion.so) \(a nice option to [create a public blog](https://www.notion.com/help/guides/build-a-website-with-notion-in-seconds-no-coding-required) alongside private notes\)
 - [Adobe Spark](https://spark.adobe.com/)
 
 ## Submission details
 
-Reports take the form of blog posts or post updates, and should be published on the production blog by the due dates indicated on Canvas.
+Post a link to the relevant blog post in each week's Canvas discussion.
 
 ## Grading Rubric
 
