@@ -30,7 +30,7 @@ Documents should be created in **Adobe InDesign** if possible. Documents produce
    1. Acknowledge anyone who has had an impact on the success of your project. Typically this would be advisors, mentors, family, and friends who have helped you along the way.   
 4. **Table of contents** <-- Only include everything after the table of contents. Do not include the table of contents page in the table. 
 5. **Project overview**
-   * Describe what your project is, what it's about, how you approached it, and what the outcomes were.
+   * Add your Exhibition Statement here.
 6. **Concept development**
    * Describe main issues, themes, and ideas explored during concept development.
    * Include relevant images, quotations, diagrams, figures, etc.
