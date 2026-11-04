@@ -8,6 +8,7 @@ You will post step 1, and then you may have to return to complete part 2. Try to
   - Project timeline up to this point if it's not posted in the production blog
   - What you intended to accomplish in the production report
   - How it's going
+  - Visual or audio media: Images, links to websites, video links and embeds, photos of notes, etc.
   - Problems, challenges, opportunities
   - Respond to any questions that you may get from others.
 2. **(DUE within 3 days after due date)** Review at least 3 classmates' work and leave feedback. Pay attention to the following:
