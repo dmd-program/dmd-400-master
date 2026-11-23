@@ -21,7 +21,7 @@ You can overlay text on top of the images and video to describe the project, alo
 1. Create a presentation folder on your computer and save everything to this folder.
 2. Create a PowerPoint or Google Slides presentation in widescreen aspect ratio
 3. Export the slides as images
-4. Record an audio narration for each slide using quicktime (should be about 1-3 minutes of audio)
+4. Record an audio narration for each slide using quicktime (should be about 1-3 minutes of audio). Please do NOT add background music to the narration.
 5. Import the images and audio into premiere pro or aftereffects
 6. Edit and export using H.264 format. This should be a small file size. 
 
